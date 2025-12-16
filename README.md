@@ -42,7 +42,7 @@ A collection of formal security and research work:
 - 🤖 **Nokia ML Project** — YOLOv3-based real-time traffic detection & modelling  
 - 🏅 **Poshmark Merit Certificate** — recognition for security engineering contributions  
 
-➡️ *Best place to see my methodology, reporting style, and technical depth.*
+Best place to see my methodology, reporting style, and technical depth.*
 
 ---
 
@@ -55,7 +55,7 @@ A custom intentionally vulnerable Flask application built for hands-on learning:
 - IDOR  
 - Authentication vulnerabilities  
 
-➡️ *Demonstrates my offensive → defensive understanding of web vulnerabilities.*
+Demonstrates my offensive → defensive understanding of web vulnerabilities.*
 
 ---
 
@@ -69,13 +69,13 @@ JavaFX + SQLite desktop application demonstrating end-to-end application flow:
 - Active & past order history  
 - Payment validation (card number, expiry date, CVV)  
 
-➡️ *Shows business logic, state management, and secure coding awareness.*
+Shows business logic, state management, and secure coding awareness.*
 
 ---
 
 ### [📘 Phonebook_Using_C](https://github.com/Gaurav-Jain-1999/Phonebook_Using_C)  
 A simple CRUD phonebook written in C using file operations and data structures.  
-➡️ *Demonstrates foundational programming and structured logic.*
+Demonstrates foundational programming and structured logic.*
 
 ---
 
