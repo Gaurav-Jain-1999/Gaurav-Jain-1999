@@ -1,4 +1,4 @@
-# 🌐 Gaurav Jain — Application Security Engineering & Penetration Testing
+#  Gaurav Jain — Application Security Engineering & Penetration Testing
 
 Welcome to my GitHub portfolio. This space showcases my hands-on work in **penetration testing, application security, cloud security, secure software development, and technical research**.
 
