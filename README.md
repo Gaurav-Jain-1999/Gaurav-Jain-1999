@@ -81,7 +81,7 @@ Demonstrates foundational programming and structured logic.*
 
 # 📬 Connect With Me
 
-- 🔗 **LinkedIn:** www.linkedin.com/in/gaurav-dilip-jain-4652901b8  
+- 🔗 **LinkedIn:** www.linkedin.com/in/gaurav-jain-4652901b8  
 - 📧 **Email:** jgauravd@gmail.com  
 - 🗂️ **GitHub:** https://github.com/Gaurav-Jain-1999  
 
